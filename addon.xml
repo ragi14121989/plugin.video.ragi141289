@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.ragi141289" name="ragi141289" version="1.0" provider-name="ragi14121989">
+    <requires>
+		<import addon="xbmc.python" version="2.14.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.service" library="server.py" start="startup" />
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary lang="en">ragi1412</summary>
+		<description lang="en">ragi1412</description>
+		<license>GNU General Public License, v2</license>
+		<language></language>
+	</extension>
+</addon>
