@@ -16,11 +16,4 @@
    	 	<setting label="30013" type="text" id="signature_1" default="" visible="eq(-5,true) + eq(-6,true)"/>
    	 	
     </category>
-	
-	<category label="33001">
-		<setting id="portal_name_1" type="text" label="30000" default="WOLFIPTV" />
-   	 	<setting id="portal_url_1" type="text" label="30001" default="http://pastebin.com/raw.php?i=bCtX50xV" />
-
-   	 	
-    </category>
 </settings>
